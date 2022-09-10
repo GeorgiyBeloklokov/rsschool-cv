@@ -34,7 +34,7 @@ In that project we used TypeScript, React, Redux, Redux Persist, Redux Toolkit, 
 - Persit, Axios, Fetch, Rest API, React hook form, React test library, Jest, React transition group, Material UI
 - Git, GitLab, GitHub, SSH
 - CI/CD, Agile, Kanban
-- PostgreSQL, Firebase, MongoDB, MySQL, Express, Node
+- PostgreSQL, Firebase, MongoDB, MySQL, Express, No
 
 ---
 
